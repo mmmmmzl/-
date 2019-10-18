@@ -1,0 +1,59 @@
+Arguments: 
+  D:\nodejs\node.exe D:\Yarn\bin\yarn.js add react-router-dom
+
+PATH: 
+  D:\前端开发项目\webpack_react\node_modules\.bin;D:\JetBrains\WebStorm 2019.2\jbr\\bin;D:\JetBrains\WebStorm 2019.2\jbr\\bin\server;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\nodejs\;D:\Yarn\bin\;D:\Git\bin;D:\Git\mingw64\libexec\git-core;D:\Java_Jdk\bin;C:\Users\groβen Baum\AppData\Local\Microsoft\WindowsApps;D:\nodejs\node_global;C:\Users\groβen Baum\AppData\Local\Yarn\bin;D:\Android\Sdk\platform-tools;;D:\Microsoft VS Code\bin
+
+Yarn version: 
+  1.17.3
+
+Node version: 
+  10.16.2
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, copyfile 'C:\Users\groβen Baum\AppData\Local\Yarn\Cache\v4\npm-inherits-2.0.1-b17d08d326b4423e568eff719f91b0b1cbdf69f1\node_modules\inherits\test.js' -> 'D:\前端开发项目\webpack_react\node_modules\assert\node_modules\inherits\test.js'
+
+npm manifest: 
+  {
+    "name": "webpack_react",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "dev": "webpack-dev-server --open"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "@babel/core": "^7.6.0",
+      "@babel/preset-react": "^7.0.0",
+      "babel-core": "^6.26.3",
+      "babel-loader": "^7.1.5",
+      "babel-plugin-transform-runtime": "^6.23.0",
+      "babel-preset-env": "^1.7.0",
+      "babel-preset-react": "^6.24.1",
+      "babel-preset-stage-0": "^6.24.1",
+      "css-loader": "^3.2.0",
+      "html-webpack-plugin": "^3.2.0",
+      "style-loader": "^1.0.0",
+      "webpack": "^4.39.3",
+      "webpack-cli": "^3.3.8",
+      "webpack-dev-server": "^3.8.0"
+    },
+    "dependencies": {
+      "@babel/runtime": "^7.6.0",
+      "react": "^16.9.0",
+      "react-dom": "^16.9.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

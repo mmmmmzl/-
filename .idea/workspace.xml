@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b781d93a-486c-4ad1-92e0-dd604bff50a1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Qfd6feq9z2niH1PtuNVeXExdPi" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CSS练习/BeanEater" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\前端开发项目\Css练习" />
+      <recent name="D:\前端开发项目\Css练习\BeanEater" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\前端开发项目\webpack_react\src\components\movies" />
+      <recent name="D:\前端开发项目\webpack_react\src\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.BeanEater.html">
+    <configuration name="Bean-Eater.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webpack_react/Bean-Eater.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="BeanEater.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webpack_react/BeanEater/BeanEater.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.BeanEater.html" />
+        <item itemvalue="JavaScript Debug.Bean-Eater.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b781d93a-486c-4ad1-92e0-dd604bff50a1" name="Default Changelist" comment="" />
+      <created>1568165410049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568165410049</updated>
+      <workItem from="1568165412286" duration="121000" />
+      <workItem from="1569318944702" duration="2517000" />
+      <workItem from="1570706142571" duration="18901000" />
+      <workItem from="1570765339116" duration="315000" />
+      <workItem from="1570765690920" duration="26925000" />
+      <workItem from="1570808532034" duration="88000" />
+      <workItem from="1570929957027" duration="7752000" />
+      <workItem from="1571035918622" duration="18083000" />
+      <workItem from="1571105191372" duration="4309000" />
+      <workItem from="1571121288181" duration="2088000" />
+      <workItem from="1571240568790" duration="2151000" />
+      <workItem from="1571244296527" duration="1429000" />
+      <workItem from="1571288670326" duration="7933000" />
+      <workItem from="1571317427880" duration="7447000" />
+      <workItem from="1571366318137" duration="2636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
